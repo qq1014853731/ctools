@@ -5,13 +5,13 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>top.chukongxiang</groupId>
-    <artifactId>tools-parent</artifactId>
+    <artifactId>ctools-parent</artifactId>
     <packaging>pom</packaging>
     <version>${revision}</version>
 
     <modules>
-        <module>utils-all</module>
-        <module>utils-file</module>
+        <module>ctools-all</module>
+        <module>ctools-file</module>
     </modules>
 
     <properties>
