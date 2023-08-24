@@ -5,7 +5,7 @@
     <parent>
         <artifactId>tools-parent</artifactId>
         <groupId>top.chukongxiang</groupId>
-        <version>${reversion}</version>
+        <version>${revision}</version>
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
@@ -20,8 +20,8 @@
     <dependencies>
         <dependency>
             <groupId>top.chukongxiang</groupId>
-            <artifactId>utils-mime-type</artifactId>
-            <version>${reversion}</version>
+            <artifactId>utils-file</artifactId>
+            <version>${revision}</version>
         </dependency>
     </dependencies>
 

@@ -7,15 +7,15 @@
     <groupId>top.chukongxiang</groupId>
     <artifactId>tools-parent</artifactId>
     <packaging>pom</packaging>
-    <version>${reversion}</version>
+    <version>${revision}</version>
 
     <modules>
-        <module>utils-mime-type</module>
         <module>utils-all</module>
+        <module>utils-file</module>
     </modules>
 
     <properties>
-        <reversion>1.0</reversion>
+        <revision>1.0</revision>
         <project.build.sourceEncoding>utf-8</project.build.sourceEncoding>
         <project.reporting.outputEncoding>utf-8</project.reporting.outputEncoding>
         <Automatic-Module-Name>top.chukongxiang</Automatic-Module-Name>
