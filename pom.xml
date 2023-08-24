@@ -4,6 +4,27 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
+    <licenses>
+        <license>
+            <name>Apache License 2.0</name>
+            <url>http://www.apache.org/licenses/</url>
+        </license>
+    </licenses>
+    <scm>
+        <connection>https://github.com/qq1014853731/ctools.git</connection>
+        <url>https://github.com/qq1014853731/ctools</url>
+    </scm>
+    <developers>
+        <developer>
+            <name>chukongxiang</name>
+            <email>1014853731@qq.com</email>
+            <roles>
+                <role>Developer</role>
+            </roles>
+            <timezone>+8</timezone>
+        </developer>
+    </developers>
+
     <groupId>top.chukongxiang</groupId>
     <artifactId>ctools-parent</artifactId>
     <packaging>pom</packaging>
