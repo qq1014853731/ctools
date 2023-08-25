@@ -1,4 +1,4 @@
-package top.chukongxiang.utils.file.mimetype;
+package top.chukongxiang.tools.file.mimetype;
 
 import java.net.URLConnection;
 import java.util.ArrayList;
