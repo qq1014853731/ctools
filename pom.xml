@@ -52,7 +52,7 @@
     </modules>
 
     <properties>
-        <revision>1.0.0.RELEASE</revision>
+        <revision>1.0.1.RELEASE</revision>
         <project.build.sourceEncoding>utf-8</project.build.sourceEncoding>
         <project.reporting.outputEncoding>utf-8</project.reporting.outputEncoding>
         <Automatic-Module-Name>top.chukongxiang</Automatic-Module-Name>
